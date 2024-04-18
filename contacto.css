@@ -42,3 +42,49 @@ input {
     height: 30px;
 }
 
+.sexo_hombre {
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.sexo_mujer {
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.sexo_mujer_input {
+    margin-left: 13px;
+}
+
+.javascript {
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.input_javascript {
+    margin-right: 65px;
+}
+
+.python {
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.input_python {
+    margin-right: 30px;
+}
+
+.sql {
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.email::placeholder {
+    color: bisque;
+    opacity: 25%;
+}
